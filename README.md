@@ -1,5 +1,3 @@
-<p align="center"><img src="./app/assets/images/icon/icon.png" width="65%" height="65%" alt="Arche"></p>
-
 <h1 align="center">Wolf Launcher</h1>
 
 
