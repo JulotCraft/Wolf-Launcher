@@ -74,7 +74,7 @@ Build pour sa plateforme :
 ---
 
 
-[<p align="center"><img src="https://discordapp.com/api/guilds/819729377650278420/embed.png?style=banner4" alt="discord">](https://discord.gg/X54Qb9em9Y) 
+[<p align="center"><img src="https://discordapp.com/api/guilds/819729377650278420/embed.png?style=banner4" alt="discord">](https://discord.gg/sJFnjSRazB) 
 ---
 
 
