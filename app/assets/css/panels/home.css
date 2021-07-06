@@ -33,9 +33,10 @@ body{
 }
 
 .logo-arche{
+    bottom: 20px;
     padding: 1%;
-    height: 160%;
-    margin-left: 27.5%;
+    height: 200%;
+    margin-left: 32%;
 }
 
 .bottom{
@@ -48,6 +49,7 @@ body{
 }
 
 .play-btn {
+    bottom: 20px;
     padding: 6px;
     color: #b7950b;
     background-color: #00000055 ;

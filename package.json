@@ -1,13 +1,13 @@
 {
-  "name": "Arche-Launcher",
+  "name": "Wolf-Launcher",
   "user": "web",
   "version": "1.0.1",
-  "productName": "Arche Launcher",
-  "description": "Arche Launcher",
+  "productName": "Wolf Launcher",
+  "description": "Wolf Launcher",
   "main": "app/index.html",
-  "author": "Luuxis",
+  "author": "Julot",
   "window": {
-    "title": "Arche update",
+    "title": "Wolf Updater",
     "width": 400,
     "height": 500,
     "frame": false,
@@ -22,7 +22,7 @@
     "plugin": true
   },
   "scripts": {
-    "start": "nw . --user-data-dir=./AppData/Arche-Launcher",
+    "start": "nw . --user-data-dir=./AppData/Wolf-Launcher",
     "server": "npm install && node node_modules/emc-core-luuxis/utils/builder.js --v=1.12.2",
     "build:win": "npm install && build --win --x64 --mirror https://npm.taobao.org/mirrors/nwjs/ .",
     "build:mac": "npm install && build --mac --x64 --mirror https://npm.taobao.org/mirrors/nwjs/ .",
@@ -31,7 +31,7 @@
   },
   "license": "MIT",
   "build": {
-    "appId": "Arche Launcher",
+    "appId": "Wolf Launcher",
     "nwVersion": "0.48.4",
     "packed": true,
     "targets": [
@@ -54,17 +54,17 @@
     ],
     "outputPattern": "${NAME}-${VERSION}-${PLATFORM}",
     "win": {
-      "productName": "Arche Launcher",
-      "companyName": "Arche Launcher",
+      "productName": "Wolf Launcher",
+      "companyName": "Wolf Launcher",
       "copyright": "copyright",
       "icon": "./app/assets/images/icon/icon.ico"
     },
     "mac": {
-      "displayName": "Arche-Launcher",
+      "displayName": "Wolf-Launcher",
       "copyright": "copyright",
       "icon": "./app/assets/images/icon/icon.icns",
       "plistStrings": {
-        "CFBundleIdentifier": "Arche-Launcher",
+        "CFBundleIdentifier": "Wolf-Launcher",
         "CFBundleDocumentTypes": []
       }
     },

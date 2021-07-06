@@ -83,7 +83,7 @@ class index {
   startLauncher(){
     this.setStatus(`Démarrage du launcher`);
      nw.Window.open("app/launcher.html", {
-      "title": "Arche Launcher",
+      "title": "Wolf Launcher",
       "width": 980,
       "height": 552,
       "min_width": 980,
